@@ -1,0 +1,25 @@
+
+<!-- Swipe Instructions Start -->
+
+<div id="swipe-instruction">
+  <div>
+    <p><br><br><br></p>
+    <i id="hand-swipe" class="fa fa-hand-o-up"></i>
+    <p><strong>
+    {% if page.section-type == "blog" %}
+      Įrašų archyvą galima naršyti braukiant į šonus!
+    {% elsif page.section-type == "post" %}
+      Įrašų archyvą galima naršyti braukiant į šonus!
+    {% endif %}
+    </strong></p>
+    <button type="button" class="btn btn-default ok-btn close-swipe-instruction">
+      {% if page.section-type == "blog" %}
+        Supratau!
+      {% elsif page.section-type == "post" %}
+        Geras!
+      {% endif %}
+    </button>
+  </div>
+</div>
+
+<!-- Swipe Instructions End -->
