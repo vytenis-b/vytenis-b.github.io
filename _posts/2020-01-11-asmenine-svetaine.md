@@ -11,7 +11,7 @@ Nesiginčiju. Bet tuo pačiu ir nesutinku, kad turime geresnių alternatyvų.
 
 ## Platformos nepakeitė svetainių
 
-Fb, YT ir kitos platformos su savo „pamatyk daugiau reklamos“ algoritmais pavertė mus bandomaisiais triušiais. Bet kokia įžvalgi, apgalvota idėja paskęsta kasdienėse aktualijose. Viskas logiška – spaudinėji savo _newsfeed_, vis tikiesi pamatyt kažką naujo, todėl visi ir rašo, filmuoja, kalba ir mimuoja „kažką naujo“. Gyvenimiški pastebėjimai dingsta, paieškos laukelis jų neberanda. O kartais – minčių autorius tiesiog išnyksta iš platformos (išmestas ar išėjęs).
+Facebook, YouTube ir kitos platformos su savo „pamatyk daugiau reklamos“ algoritmais pavertė mus bandomaisiais triušiais. Bet kokia įžvalgi, apgalvota idėja paskęsta kasdienėse aktualijose. Viskas logiška – spaudinėji savo _newsfeed_, vis tikiesi pamatyt kažką naujo, todėl visi ir rašo, filmuoja, kalba ir mimuoja „kažką naujo“. Gyvenimiški pastebėjimai dingsta, paieškos laukelis jų neberanda. O kartais – minčių autorius tiesiog išnyksta iš platformos (išmestas ar išėjęs).
 
 Ir viskas vyksta be mūsų sutikimo ar pageidavimo. Mainais į mūsų duomenis, informacijos laisvę ir net demokratinius principus.
 
@@ -29,8 +29,8 @@ Ir tuo pat metu kasdien sukuriami tūkstančiai tokių svetainių, kurios teapsi
 
 ## Asmeninė svetainė kaip CV?
 
-LI anksčiau skelbėsi padėsianti susirasti darbą, turėti paprastai prieinamą ir aiškų CV internete. Tada ji paleido savo _newsfeed_, kuris prikimštas pseudo... Ne, ne pseudo, o tiesiog tuščiu bereikšmiu mėšlu.
+LinkedIn anksčiau skelbėsi padėsianti susirasti darbą, turėti paprastai prieinamą ir aiškų CV internete. Tada ji paleido savo _newsfeed_, kuris prikimštas pseudo... Ne, ne pseudo, o tiesiog tuščiu bereikšmiu mėšlu.
 
-O kaip dėl CV LI?
+O kaip dėl CV LinkedIn'e?
 
 Cha, na... jei nori, kad visą tavo profesinį gyvenimą nugvelbtų įmonės, panašios į _Cambridge Analytica_ – prašom, palik varnelę prie nustatymo „Public“. Tikiesi, kad _connectionai_ išeis į naudą? Po kelinto _spaminio_ pranešimo nustosi tikrinti pranešimus? Platforma nepakeičia gyvenimo, kolegų ir tikrų pažinčių. Vis dėlto, bent kol kas apačioje šmėžčios nuoroda į mano LI profilį.
