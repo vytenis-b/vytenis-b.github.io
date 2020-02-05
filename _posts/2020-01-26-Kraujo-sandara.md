@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Kas sudaro kraują?
+title: Iš ko sudarytas kraujas
 category: blog
 ---
 
