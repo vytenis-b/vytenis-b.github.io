@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Žiauriai."
   - text: "Žiauriai geras."
 
-me-img: "/img/bokstas outline home.png"
+me-img: "/img/bokstas_min.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -156,7 +156,7 @@ email: "labas@vytenisbagdonas.lt"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Vytenis visą gyvenimą praleido 20 amžiaus technologinio Pasaulio medžio paunksnėje, iš aukšto žvelgdamas į Vilnių nuo pasaulio atbrailos. Dabar jis nusileido į poledyninę plynę, kad pasakytų jums, jog viskas yra ne taip svarbu."
-author_blurb_image: "/img/bokstas outline.png"
+author_blurb_image: "/img/bokstas_mid.png"
 
 ##################
 # Social Buttons #
@@ -178,7 +178,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/bokstas.png"
+err-404-img: "/img/404.png"
 
 ##################
 # GPG on Keybase #
