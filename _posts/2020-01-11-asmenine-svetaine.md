@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Kam man ta asmeninė svetainė?
-category: blog
+category: įrašas
 ---
 
 Asmeninės svetainės yra _soo 2005_. <!--more-->

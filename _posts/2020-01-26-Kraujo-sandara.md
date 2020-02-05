@@ -5,7 +5,7 @@ title: Iš ko sudarytas kraujas
 category: įrašas
 ---
 
-Kraujas yra nuostabus ir nepakeičiamas. Rimtai – kraujui neturim jokio pakaitalo ant viso svieto. Tam tikra prasme mes esam gyvybės syvų gaminimo fabrikėliai, galintys kas kelias savaites ar mėnesius padėti gydytojams gelbėti gyvybes. Aukoti kraują yra paprasčiausias būdas padėti sunkiai sergantiems žmonėms. Aš jau daugiau nei dešimtmetį aukoju kraują ir jo komponentus, o 2019 metais kraujo donorystė dar ir išgelbėjo man gyvybę. Tiesa, netradiciniu būdu: niekas man nepaaukojo kraujo, atvirkščiai – mane išgelbėjo tai, jog aš pats buvau kraujo donoras.
+Kraujas yra nuostabus ir nepakeičiamas. Rimtai – kraujui neturim jokio pakaitalo ant viso svieto. Mes esam lyg gyvybės syvų gaminimo fabrikėliai, galintys kas kelias savaites ar mėnesius padėti gydytojams gelbėti gyvybes. Aukoti kraują yra paprasčiausias būdas padėti sunkiai sergantiems žmonėms. Aš jau daugiau nei dešimtmetį aukoju kraują ir jo komponentus, o 2019 metais kraujo donorystė dar ir išgelbėjo man gyvybę. Tiesa, netradiciniu būdu: niekas man nepaaukojo kraujo, atvirkščiai – mane išgelbėjo tai, jog aš pats buvau kraujo donoras.
 
 Norėjau papasakoti apie šį nutikimą, bet supratau, kad mano įžangos tokios ilgos, jog išsitenka į atskirą įrašą, todėl pirmiausiai paskelbiu šį tekstą apie kraują bendrai. Kiek matau iš juodraščio, laukia ir antroji dalis apie kraujo donorystę, o jau trečiojoje pavyks ir papasakoti, kas man iš tiesų nutiko.
 

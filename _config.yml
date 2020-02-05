@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Žiauriai."
   - text: "Žiauriai geras."
+  - text: "Geras."
 
 me-img: "/img/bokstas_min.png"
 
@@ -106,7 +107,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 15
+post-preview-words: 25
 
 paginate: 5
 
