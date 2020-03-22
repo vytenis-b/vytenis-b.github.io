@@ -215,3 +215,4 @@ sass:
 plugins:
   - jekyll-paginate
   - jemoji
+  - jekyll-seo-tag
