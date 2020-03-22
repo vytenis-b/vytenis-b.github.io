@@ -3,6 +3,7 @@ layout: post
 section-type: post
 title: Jekyll svetainė > WordPress
 category: blog
+description: Savo asmeninę svetainę sukūriau naudodamas Jekyll statinių puslapių generatorių. Man nuoširdžiai gaila savęs ir kitų žmonių, kurie darbe priversti naudoti WordPress. 
 ---
 
 Susikurti Jekyll svetainę yra paprasta. Aš ilgiau užtrukau rinkdamasis statinį puslapių generatorių (_Static Site Generator_) nei tvarkydamas visus Jekyll niuansus, kad galėčiau sėsti ir rašyti šį įrašą. Dabar džiaugiuosi greitais, lengvais ir saugesniais namais internete.<!--more-->
@@ -27,3 +28,7 @@ Jekyll sugeneruoja statinius HTML puslapius, todėl svetainei nereikia naudoti d
 Na, čia viskas nėra paruošta naudoti, pasiekiama vienu pelės paspaudimu ar suprantama net mano devyniasdešimtmetei močiutei. Iš kitos pusės, viską gali pasidaryti pats. Gal kam nors tai ir atrodo trūkumas, bet aš esu žmogus, kuris nėra įpratęs viską gauti ant lėkštutės, skaityti penktokų lygio tekstų ir kitaip intelektualiai degraduoti.
 
 Reik išmokti pushint į Git? Išmoksiu. Susirasiu info ir išmoksiu bet ką. Bent jau kol seošnikai diletantai neužkariavo viso interneto.
+
+git add --all
+git commit -m vieta-reklamai
+git push
