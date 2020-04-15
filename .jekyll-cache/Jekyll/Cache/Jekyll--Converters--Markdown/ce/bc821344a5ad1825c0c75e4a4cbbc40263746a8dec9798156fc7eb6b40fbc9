@@ -1,4 +1,4 @@
-I"�	<p>Susikurti Jekyll svetainę yra paprasta. Aš ilgiau užtrukau rinkdamasis statinį puslapių generatorių (<em>Static Site Generator</em>) nei tvarkydamas visus Jekyll niuansus, kad galėčiau sėsti ir rašyti šį įrašą. Dabar džiaugiuosi greitais, lengvais ir saugesniais namais internete.<!--more--></p>
+I"�	<p>Susikurti Jekyll svetainę yra paprasta. Aš ilgiau užtrukau rinkdamasis statinį puslapių generatorių (<em>Static Site Generator</em>) nei tvarkydamas visus Jekyll niuansus, kad galėčiau sėsti ir rašyti šį įrašą. Dabar džiaugiuosi greitais, lengvais ir saugesniais namais internete.<!--more--></p>
 
 <p>Daug metų darbe ir laisvalaikiu užsiimu visokiais WordPress projektais ir savo kailiu patiriu agoniją tvarkyti turinį, pastoviai nerimauti dėl eilinės saugumo spragos ar įskiepių nesuderinamumo. Galvoje vis nebaigia skambėti klausimas: kodėl šitas šūdo gabalas negali tiesiog veikti?</p>
 
@@ -20,4 +20,8 @@
 <p>Na, čia viskas nėra paruošta naudoti, pasiekiama vienu pelės paspaudimu ar suprantama net mano devyniasdešimtmetei močiutei. Iš kitos pusės, viską gali pasidaryti pats. Gal kam nors tai ir atrodo trūkumas, bet aš esu žmogus, kuris nėra įpratęs viską gauti ant lėkštutės, skaityti penktokų lygio tekstų ir kitaip intelektualiai degraduoti.</p>
 
 <p>Reik išmokti pushint į Git? Išmoksiu. Susirasiu info ir išmoksiu bet ką. Bent jau kol seošnikai diletantai neužkariavo viso interneto.</p>
+
+<p>git add –all
+git commit -m vieta-reklamai
+git push</p>
 :ET
