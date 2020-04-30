@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Žiauriai."
-  - text: "Žiauriai geras."
-  - text: "Geras."
+  - text: "Šimtas valandų be įrenginių."
+  - text: "Jūrų kiaulytės lopšys."
+  - text: "Paskutinis negentrifikuotas budulis."
 
 me-img: "/img/bokstas_min.png"
 
