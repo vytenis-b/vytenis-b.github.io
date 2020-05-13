@@ -27,7 +27,7 @@ Liežuviu nerangiai apverčiu duoną su paštetu. Uošvis žiūri į mane. Tas p
 
 Tomo močiutė kaip visad žvelgia į septynmetį anūką ir jau matuoja jam gydytojo chalatą. Senelis irgi matuotų, bet dabar jam įdomiau, ką mano veidas papasakos apie paštetą. Jų giminės linija – šimtametė intelektualų – gydytojų – dinastija. Ketvirtos kartos medikai iš Kauno. Savo ligoninės skyrių vadovai. Gyvybių gelbėtojai ir žmonių tyrėjai su labai aiškiai apibrėžtais žmogaus vertinimo kriterijais: žmonės yra medikai ir kai kurie rimti teisininkai. Visi likusieji tėra kalbantys objektai.
 
-Kartą verčiau pusbrolio ušvienės interviu tekstą į anglų kalbą. Jos skyrius vykdė inovatyviausius inkstų vėžio tyrimus Lietuvoje.
+Kartą verčiau pusbrolio ušvienės interviu tekstą į anglų kalbą. Jos skyrius vykdė inovatyviausius plaučių arterijų tyrimus Lietuvoje.
 
 Aš vis dar grūmiausi su paštetu burnoje, kai ji kreipėsi į anūką:<br>
 –Tomuk, ar atvažiuosi pas mus pažaisti su stetoskopu? – senelė tarė griežtu ligoninės skyriaus vadovės balsu. Tomukas tuo metu pirmoje kovoje triuškino mano žmonos mašinatroną. Mašinatronas buvo sukutis, apklijuotas pigiais lipdukais. Vaikai buvo dėl jų pakvaišę. Tomas gavo šešis dovanų. Tai yra tris kartus daugiau nei vaikis turėjo rankų. Jis spoksojo į mašinatroniumą – plastikinį dubenį, kuriame kovėsi sukučiai.
@@ -64,5 +64,5 @@ Atsisukau į Tomą, jis stovėjo prie pat mano ištiesto įsivaizduojamo ginklo:
 
 Jo tėvai atnešė pilnus puodukus:<br>
 –Tomai, žaisk draugiškai.<br>
-Vaikis nubėgo atgal prie mašinatronų. Aš atsistojau ir prisėdau prie stalo kartu su pusbroliu, jo žmona ir Tomo močiute. Pasmeigiau gabaliuką sausos rūkytos šernienos dešros. Atsisukau į pusbrolio uošvį:<br>
+Mudu atsitojom. Vaikis nubėgo atgal prie mašinatronų, o aš prisėdau prie stalo kartu su pusbroliu, jo žmona ir Tomo močiute. Pasmeigiau gabaliuką sausos rūkytos šernienos dešros. Atsisukau į pusbrolio uošvį:<br>
 –Tikrai kitas skonis. Net nepagalvotum!
