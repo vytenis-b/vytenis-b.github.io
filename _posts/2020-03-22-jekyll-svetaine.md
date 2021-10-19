@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Jekyll svetainė > WordPress
-category: blog
+category: įrašas
 description: Savo asmeninę svetainę sukūriau naudodamas Jekyll statinių puslapių generatorių. Man nuoširdžiai gaila savęs ir kitų žmonių, kurie darbe priversti naudoti WordPress. 
 ---
 

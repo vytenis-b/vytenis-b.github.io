@@ -30,9 +30,9 @@ force-https: True
 
 lang: "lt"
 author: "Vytenis"
-title: "{ Vytenis }"
+title: "Vytenis"
 description: "Vytenio svetainė."
-keywords: "komunikacija, vertimas, tekstai, Vytenis"
+keywords: "tekstai, Vytenis, šia tvarka"
 favicon: "/img/favicons.ico"
 
 ################
@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Šimtas valandų be įrenginių."
   - text: "Jūrų kiaulytės lopšys."
-  - text: "Paskutinis negentrifikuotas budulis."
+  - text: "Paskutinis kormoranas."
 
 me-img: "/img/bokstas_min.png"
 
@@ -107,7 +107,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 25
+post-preview-words: 11
 
 paginate: 5
 
@@ -154,7 +154,7 @@ email: "labas@vytenisbagdonas.lt"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Vytenis visą gyvenimą praleido 20 amžiaus technologinio Pasaulio medžio paunksnėje, iš aukšto žvelgdamas į Vilnių nuo pasaulio atbrailos. Dabar jis nusileido į poledyninę plynę, kad pasakytų jums, jog viskas yra ne taip svarbu."
+author_blurb: "Vytenis visą gyvenimą praleido 20 amžiaus technologinio Pasaulio medžio paunksnėje, žvelgdamas į Vilnių nuo pasaulio atbrailos. Čia poledyninės plynės reikalai neatrodo labai svarbūs."
 author_blurb_image: "/img/bokstas_mid.png"
 
 ##################
