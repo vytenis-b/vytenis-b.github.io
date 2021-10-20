@@ -107,7 +107,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 11
+post-preview-words: 50
 
 paginate: 5
 
@@ -154,7 +154,7 @@ email: "labas@vytenisbagdonas.lt"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Vytenis visą gyvenimą praleido 20 amžiaus technologinio Pasaulio medžio paunksnėje, žvelgdamas į Vilnių nuo pasaulio atbrailos. Čia poledyninės plynės reikalai neatrodo labai svarbūs."
+author_blurb: "Vytenis visą gyvenimą leidžia 20 amžiaus technologinio Pasaulio medžio paunksnėje, žvelgdamas į poledyninę plynę nuo pasaulio atbrailos."
 author_blurb_image: "/img/bokstas_mid.png"
 
 ##################

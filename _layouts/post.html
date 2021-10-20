@@ -16,16 +16,6 @@
           <h1><strong>{{ page.title }}</strong></h1>
           <h4>
             <strong>{{ page.date | date_to_string }}</strong>
-            <small>
-              . kategorija:
-              <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
-                {{ page.category }}
-              </a>.
-              <br />
-              {% for tag in page.tags %}
-                <a class="tag" href="{{site.baseurl}}/tags/{{tag | downcase}}.html">#{{ tag }}</a>
-              {% endfor %}
-            </small>
           </h4>
 
           <section class="text-justify">
@@ -36,7 +26,7 @@
 
           {% if site.author_blurb %}
           <div class="author row">
-            <img class="col-xs-4 col-sm-3 col-md-2" src="{{site.baseurl}}{{site.author_blurb_image}}" alt="Me" />
+            <img class="col-xs-4 col-sm-3 col-md-2" src="{{site.baseurl}}{{site.author_blurb_image}}" alt="Aš" />
             <p class="col-xs-8 col-sm-9 col-md-10">
               {{ site.author_blurb }}
             </p>
