@@ -12,3 +12,5 @@ A 16-story Soviet monolith – a wannabe Optimus Prime apartment building – bl
 I could see the gentle wind in the birches. In the distance, a bus puked out people into the agora. A good handful of years prior, plastic bags were a sign of high status, especially if they had a foreign logo, like Adidas or Aldi. Yet here I was, at the tail end of the 20th century, flying trash on a leash because that was the kite I could afford. 
 
 And I was getting good air too, man. Some days I could even get it above the monolith.
+
+![High Flyer](/img/High Flyer.png)
