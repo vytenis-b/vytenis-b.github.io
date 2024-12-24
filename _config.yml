@@ -154,7 +154,7 @@ email: "svetaine@vytenisbagdonas.lt"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Vytenis daug burba ir kartais rašo tekstus."
+author_blurb: "Vytenis kartais rašo."
 author_blurb_image: "/img/bokstas_mid.png"
 
 ##################
@@ -166,10 +166,6 @@ social:
     url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 

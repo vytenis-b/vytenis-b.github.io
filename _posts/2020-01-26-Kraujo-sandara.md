@@ -9,10 +9,6 @@ Kraujas yra nuostabus ir nepakeičiamas. Rimtai – kraujui neturim jokio pakait
 
 Norėjau papasakoti apie šį nutikimą, bet supratau, kad mano įžangos tokios ilgos, jog išsitenka į atskirą įrašą, todėl pirmiausiai paskelbiu šį tekstą apie kraują bendrai. Kiek matau iš juodraščio, laukia ir antroji dalis apie kraujo donorystę, o jau trečiojoje pavyks ir papasakoti, kas man iš tiesų nutiko.
 
-- Kraujas ir kraujo sandara (skaitote dabar)
-- Kraujo donorystė (nekantriai laukia paskelbimo)
-- Kaip kraujo donorystė išgelbėjo man gyvybę (dar nekantriau laukia paskelbimo)
-
 ## Kas sudaro mūsų kraują?
 
 Ar yra čia ką pasakoti? Kokioj šeštoj klasėj išmokom, kad yra trys kraujo kūneliai: raudonieji (_eritrocitai_), baltieji (_leukocitai_) ir trombocitai. Kaip žinia, eritrocitai nešioja deguonį ir anglies dvideginį, o trombocitai atsakingi už krešulius (ir insultus), o leukocitai yra esminė imuninės sistemos dalis. Visi kraujo kūneliai plaukioja kraujo plazmoje.
@@ -25,7 +21,7 @@ Kraujo plazma yra sūrus skystis, kuriame plaukioja kraujo kūneliai ir įvairio
 
 Kraujo plazma yra greitai atsikurianti medžiaga, todėl jos paaukoti galima net dukart per mėnesį. Užšaldytą plazmą galima laikyti net iki 3 metų. Plazma yra ypač svarbi kai kurių vaistų gamyboje ir vienintelė kraujo dalis, kurią galima teisėtai išvežti iš Lietuvos, kadangi mes savo šalyje neturime plazmos perdirbimo gamyklų ir negalime patys iš jos pasigaminti vaistų.
 
-- Plazma sudaro daugmaž 50-55 proc. kraujo tūrio.
++ Plazma sudaro daugmaž 50-55 proc. kraujo tūrio.
 - Pačią plazmą sudaro 90 proc. vandens.
 
 ### Raudonieji kraujo kūneliai – eritrocitai
