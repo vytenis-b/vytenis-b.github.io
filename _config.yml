@@ -191,7 +191,7 @@ keybase-in-footer: True
 
 pages_list:
   Apie: 'about'
-  Blogas: 'latest-post'
+  Tekstai: 'latest-post'
   ## timeline archyvas: Timeline: 'timeline'
   Kontaktai: 'contact'
 
