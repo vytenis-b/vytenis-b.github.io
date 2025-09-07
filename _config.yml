@@ -41,7 +41,7 @@ favicon: "/img/favicons.ico"
 
 black-favicon: "/img/juodas-piestuks.ico"
 
-background-img: "../img/bg4.jpg"
+background-img: "../img/fonas.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Šimtas valandų be įrenginių."
-  - text: "Jūrų kiaulytės lopšys."
-  - text: "Paskutinis kormoranas."
+  - text: "Teritorija"
+  - text: "Ne pagal grafiką"
+  - text: "Savaitgalio poezija"
 
 me-img: "/img/bokstas_min.png"
 
@@ -107,7 +107,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 50
+post-preview-words: 52
 
 paginate: 5
 
@@ -154,7 +154,7 @@ email: "svetaine@vytenisbagdonas.lt"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Vytenis kartais rašo."
+author_blurb: "Ačiū, kad perskaitei visą įrašą. Patiko? Pasidalink su kitais!"
 author_blurb_image: "/img/bokstas_mid.png"
 
 ##################
